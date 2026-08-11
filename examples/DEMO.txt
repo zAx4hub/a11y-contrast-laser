@@ -1,0 +1,8 @@
+60-second demo for a11y-contrast-laser
+
+1. npm install
+2. npm test
+3. npm run demo
+
+Credits: zAx4hub
+
